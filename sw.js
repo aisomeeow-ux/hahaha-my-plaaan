@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ritual-tracker-v1';
+const CACHE_NAME = 'ritual-tracker-v2';
 const FILES_TO_CACHE = ['./index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', (event) => {
